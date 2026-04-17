@@ -60,12 +60,17 @@ I specialize in transforming raw data into actionable insights to support busine
 - Improved data understanding through visual insights  
 
 ---
-Developed an AI-powered data insights generator using a Large Language Model (LLM) to analyze datasets and generate automated business insights.
+### 🔹 LLM-Based Data Insights Generator
 
-- Integrated OpenAI API to process user queries  
-- Converted raw data into meaningful insights using natural language prompts  
-- Automated report generation for business decision-making  
-- Designed prompt engineering techniques for accurate responses  
+Developed an AI-powered data insights generator using Large Language Models (LLM) to automate data analysis.
+
+- Integrated OpenAI API for natural language processing  
+- Generated automated business insights from datasets  
+- Applied prompt engineering for accurate responses  
+- Automated reporting using Python  
+
+Tools: Python, OpenAI API, Pandas  
+Keywords: LLM, Generative AI, NLP, Prompt Engineering, Data Analysis, Automation
 
 ## 🛠 Technical Skills
 - Power BI (DAX, Dashboard Development)
