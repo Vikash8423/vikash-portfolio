@@ -31,8 +31,6 @@ I specialize in transforming raw data into actionable insights to support busine
 📈 Impact:
 - Improved decision-making speed by 35%  
 
-📸 ![Power BI Dashboard](https://via.placeholder.com/800x400?text=Power+BI+Dashboard)
-
 ---
 
 ### 🔹 Production Data Dashboard (Excel)
@@ -43,8 +41,6 @@ I specialize in transforming raw data into actionable insights to support busine
 📈 Impact:
 - Reduced manual effort by 40%  
 
-📸 ![Excel Dashboard](https://via.placeholder.com/800x400?text=Excel+Dashboard)
-
 ---
 
 ### 🔹 SQL Data Analysis
@@ -53,8 +49,6 @@ I specialize in transforming raw data into actionable insights to support busine
 
 📈 Impact:
 - Improved data retrieval efficiency by 25%  
-
-📸 ![SQL Output](https://via.placeholder.com/800x400?text=SQL+Analysis)
 
 ---
 
@@ -65,9 +59,13 @@ I specialize in transforming raw data into actionable insights to support busine
 📈 Impact:
 - Improved data understanding through visual insights  
 
-📸 ![Python Graph](https://via.placeholder.com/800x400?text=Python+Visualization)
-
 ---
+Developed an AI-powered data insights generator using a Large Language Model (LLM) to analyze datasets and generate automated business insights.
+
+- Integrated OpenAI API to process user queries  
+- Converted raw data into meaningful insights using natural language prompts  
+- Automated report generation for business decision-making  
+- Designed prompt engineering techniques for accurate responses  
 
 ## 🛠 Technical Skills
 - Power BI (DAX, Dashboard Development)
@@ -105,12 +103,7 @@ Accurate Institute of Management and Technology
 📞 +91 9305308914  
 📍 Greater Noida, India 
 
-Developed an AI-powered data insights generator using a Large Language Model (LLM) to analyze datasets and generate automated business insights.
-
-- Integrated OpenAI API to process user queries  
-- Converted raw data into meaningful insights using natural language prompts  
-- Automated report generation for business decision-making  
-- Designed prompt engineering techniques for accurate responses  
+ 
 
 Tools Used: Python, OpenAI API, Pandas  
 Keywords: LLM, Generative AI, NLP, Prompt Engineering, Data Analysis, Automation
