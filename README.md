@@ -24,9 +24,15 @@ I specialize in transforming raw data into actionable insights to support busine
 ## 📊 Projects
 
 ### 🔹 Financial Transaction Analytics Dashboard (Power BI)
-- Analyzed 50,000+ transactions  
-- Created KPIs using DAX (growth, trends, balances)  
-- Built interactive dashboard with filters  
+Developed an interactive Power BI dashboard to analyze 50,000+ financial transactions and generate business insights.
+
+- Designed data model and performed ETL using Power Query  
+- Created DAX measures for KPIs such as total balance, monthly growth, and transaction trends  
+- Built dynamic dashboards with slicers (Bank, City, Gender, Payment Method)  
+- Performed data analysis to identify trends and patterns in customer transactions  
+
+Tools Used: Power BI, DAX, Power Query  
+Keywords: Data Visualization, Dashboard Development, KPI Reporting, ETL, Data Modeling, Business Intelligence
 
 📈 Impact:
 - Improved decision-making speed by 35%  
@@ -34,9 +40,15 @@ I specialize in transforming raw data into actionable insights to support busine
 ---
 
 ### 🔹 Production Data Dashboard (Excel)
-- Built dashboard using Pivot Tables & Charts  
-- Automated reporting process  
-- Performed data cleaning and transformation  
+Built an Excel-based data dashboard to analyze production performance and improve reporting efficiency.
+
+- Cleaned and transformed raw data using Excel functions  
+- Created Pivot Tables, Charts, and automated reports  
+- Designed ETL workflow for structured data processing  
+- Analyzed data trends across regions, quarters, and demographics  
+
+Tools Used: Microsoft Excel  
+Keywords: Data Cleaning, Data Analysis, ETL, Dashboard, Data Visualization, Reporting Automation
 
 📈 Impact:
 - Reduced manual effort by 40%  
@@ -44,8 +56,14 @@ I specialize in transforming raw data into actionable insights to support busine
 ---
 
 ### 🔹 SQL Data Analysis
-- Used JOIN, GROUP BY, and aggregate functions  
-- Extracted insights from structured data  
+Performed data analysis using SQL to extract insights from structured datasets.
+
+- Wrote complex SQL queries using SELECT, JOIN, GROUP BY, and aggregate functions  
+- Analyzed sales and performance data to identify key business trends  
+- Optimized queries for efficient data retrieval  
+
+Tools Used: MySQL  
+Keywords: SQL, Data Analysis, Data Extraction, Query Optimization, Relational Database 
 
 📈 Impact:
 - Improved data retrieval efficiency by 25%  
@@ -53,8 +71,15 @@ I specialize in transforming raw data into actionable insights to support busine
 ---
 
 ### 🔹 Python Data Analysis
-- Used Pandas & NumPy for data processing  
-- Created visualizations using Matplotlib  
+Conducted data analysis using Python to process and visualize datasets.
+
+- Performed data cleaning and preprocessing using Pandas  
+- Used NumPy for numerical analysis  
+- Created data visualizations using Matplotlib  
+- Identified patterns and trends for decision-making  
+
+Tools Used: Python (Pandas, NumPy, Matplotlib)  
+Keywords: Data Analysis, Data Cleaning, Data Visualization, Python, Exploratory Data Analysis
 
 📈 Impact:
 - Improved data understanding through visual insights  
