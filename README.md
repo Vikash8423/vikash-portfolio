@@ -94,7 +94,7 @@ Accurate Institute of Management and Technology
 ---
 
 ## 📄 Resume
-👉 Add your Google Drive resume link here  
+https://drive.google.com/file/d/1BylWimzWcg1FEbqShmD5_Dcp9QN5Qvz0/view?usp=drivesdk
 
 ---
 
