@@ -132,9 +132,3 @@ https://drive.google.com/file/d/1BylWimzWcg1FEbqShmD5_Dcp9QN5Qvz0/view?usp=drive
 📧 yarav9305vikash@gmail.com  
 📞 +91 9305308914  
 📍 Greater Noida, India 
-
- 
-
-Tools Used: Python, OpenAI API, Pandas  
-Keywords: LLM, Generative AI, NLP, Prompt Engineering, Data Analysis, Automation
----
