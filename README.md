@@ -4,7 +4,7 @@ Data Analyst skilled in Power BI, SQL, Python, and Excel with experience in dash
 ### Data Analyst | Power BI Developer | SQL | Python  
 
 📍 Greater Noida, India  
-📧 vikash6392yadav@gmail.com  
+📧 yarav9305vikash@gmail.com  
 📞 +91 9305308914  
 🔗 LinkedIn: linkedin.com/in/vikash-yadav-828728245  
 
@@ -101,8 +101,17 @@ Accurate Institute of Management and Technology
 ---
 
 ## 📬 Contact
-📧 vikash6392yadav@gmail.com  
+📧 yarav9305vikash@gmail.com  
 📞 +91 9305308914  
-📍 Greater Noida, India  
+📍 Greater Noida, India 
 
+Developed an AI-powered data insights generator using a Large Language Model (LLM) to analyze datasets and generate automated business insights.
+
+- Integrated OpenAI API to process user queries  
+- Converted raw data into meaningful insights using natural language prompts  
+- Automated report generation for business decision-making  
+- Designed prompt engineering techniques for accurate responses  
+
+Tools Used: Python, OpenAI API, Pandas  
+Keywords: LLM, Generative AI, NLP, Prompt Engineering, Data Analysis, Automation
 ---
